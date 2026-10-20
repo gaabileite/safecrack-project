@@ -6,6 +6,10 @@ Cofre digital em SystemVerilog para a placa Altera **DE2-115**. A senha de quatr
 
 Projeto da disciplina CIN0130 — Sistemas Digitais (CIn/UFPE, 2026.1), professor Victor Medeiros.
 
+## Vídeo
+
+[Assista ao vídeo do projeto no YouTube](https://youtu.be/_vgWMApheu0?si=FNMOXqHvSTn_HW01).
+
 ## Estrutura do repositório
 
 ```

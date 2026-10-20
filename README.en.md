@@ -6,6 +6,10 @@ A digital safe written in SystemVerilog for the Altera **DE2-115** board. A four
 
 Course project for CIN0130 — Digital Systems (CIn/UFPE, 2026.1), Prof. Victor Medeiros.
 
+## Video
+
+[Watch the project video on YouTube](https://youtu.be/_vgWMApheu0?si=FNMOXqHvSTn_HW01).
+
 ## Repository layout
 
 ```
